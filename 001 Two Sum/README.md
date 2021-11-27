@@ -1,5 +1,8 @@
 ﻿# Two Sum
 
+[Click here](README.en.md) for English explanation.
+
+
 `twoSum` fonksiyonu veri tipi `integer (int)` olan tam sayıları tutan `nums` adında bir dizi `(array)` ve veri tipi yine `integer (int)` olan bir hedef tam sayı `target` değerini parametre olarak alır. `twoSum` fonksiyonu bu dizi içerisindeki iki sayının toplam değeri hedef `(target)` değerine eşit oluyor ise bu toplanan iki sayının dizi içerisindeki endekslerini bir iki elemanlı dizi `(array)` olarak döndürmelidir.
 
 
