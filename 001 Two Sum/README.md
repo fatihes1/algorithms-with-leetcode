@@ -1,43 +1,42 @@
 ﻿# Two Sum
-[EN] 
-Given an array of integers `nums` and an integer `target`, return *indices* of the two numbers such that they add up to  `target`.
 
-You may assume that each input would have  **_exactly_  one solution**, and you may not use the  _same_  element twice.
-
-You can return the answer in any order.
-
-**Example 1:**
+`twoSum` fonksiyonu veri tipi `integer (int)` olan tam sayıları tutan `nums` adında bir dizi `(array)` ve veri tipi yine `integer (int)` olan bir hedef tam sayı `target` değerini parametre olarak alır. `twoSum` fonksiyonu bu dizi içerisindeki iki sayının toplam değeri hedef `(target)` değerine eşit oluyor ise bu toplanan iki sayının dizi içerisindeki endekslerini bir iki elemanlı dizi `(array)` olarak döndürmelidir.
 
 
-**Input:** `nums = [2,7,11,15], target = 9`
+Girdi olarak verilen dizide sadece bir çözümün var olduğunu kabul edebilirsiniz. (Birden fazla opsiyonel çözüm kümesi olmadığını varsayabiliriz. ) Bununla beraber dizinin bir ögesi (elemanı) sadece bir kez kullanılabilir. (Aynı endeks içerisindeki değerin kendisi ile toplanmaması gerekiyor.)
 
-**Output:** `[0,1]`
+Geri döndürülen dizideki endekslerin sırası önemli değildir.
 
-**Output:** `Because nums[0] + nums[1] == 9, we return [0, 1].`
-
-<br />
-
-**Example 2:**
+**Örnek 1:**
 
 
-**Input:** `nums = [3,2,4], target = 6`
+**Girdi:** `nums = [2,7,11,15], target = 9`
 
-**Output:** `[1,2]`
+**Çıktı:** `[0,1]`
+
+**Çıktı:** `Çünkü nums[0] + nums[1] == 9, bu yüzden bu iki değerin endeksleri döndürülür => [0, 1].`
 
 <br />
 
-**Example 3:**
+**Örnek 2:**
 
 
-**Input:** `nums = [3,3], target = 6`
+**Girdi:** `nums = [3,2,4], target = 6`
 
-**Output:** `[0,1]`
+**Çıktı:** `[1,2]`
 
-**Constraints:**
+<br />
+
+**Örnek 3:**
+
+
+**Girdi:** `nums = [3,3], target = 6`
+
+**Çıktı:** `[0,1]`
+
+**Kısıtlar:**
 -   `2 <= nums.length <= 104`
 -   `-109  <= nums[i] <= 109`
 -   `-109  <= target <= 109`
--   **Only one valid answer exists.**
-
-
+-   **Sadece tek bir geçerli cevap olmalıdır.**
 
