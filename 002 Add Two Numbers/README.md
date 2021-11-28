@@ -35,6 +35,8 @@ Bu iki sayının kendisi sıfır olmadığı sürece ilk basamağının sıfır 
 
 **Çıktı:** `[8,9,9,9,0,0,0,1]`
 
+<br/>
+
 **Kısıtlar:**
 -   Her bağlantılı listedeki `(Linked List)` düğüm  `(Node)`sayısı  `[1, 100]` arasındadır..
 -   `0 <= Node.val <= 9` (Her düğüm sadece bir rakam tutabilir.)
