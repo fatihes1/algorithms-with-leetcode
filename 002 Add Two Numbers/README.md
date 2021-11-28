@@ -12,7 +12,9 @@ Bu iki sayının kendisi sıfır olmadığı sürece ilk basamağının sıfır 
 ![Capture](https://user-images.githubusercontent.com/54971670/143759545-1e65b480-e1f0-4075-b28c-c24a08b8acd5.PNG)
 
 **Girdi:** `l1 = [2, 4, 3], l2 = [5, 6, 4]`
+
 **Çıktı:** `[7, 0, 8]`
+
 **Açıklama:** `342 + 465 = 807.`
 
 <br />
@@ -21,6 +23,7 @@ Bu iki sayının kendisi sıfır olmadığı sürece ilk basamağının sıfır 
 
 
 **Girdi:** `l1 = [0], l2 = [0]`
+
 **Çıktı:** `[0]`
 
 <br />
@@ -29,6 +32,7 @@ Bu iki sayının kendisi sıfır olmadığı sürece ilk basamağının sıfır 
 
 
 **Girdi:** `l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]`
+
 **Çıktı:** `[8,9,9,9,0,0,0,1]`
 
 **Kısıtlar:**
