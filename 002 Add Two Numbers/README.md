@@ -1,5 +1,7 @@
 ﻿# Add Two Numbers
 
+[Click here](README.en.md) for English explanation.
+
 `addTwoNumbers` fonksiyonu iki adet birer tamsayıyı temsil eden ve boş olmayan bağlantılı listeyi `(linked list)` parametre olarak alır. Rakamlar bağlantılı listede ters sırada konumlandırılmıştır ve her biri tek bir rakam içerir. Verilen iki sayıyı toplayın ve toplamı bir bağlantılı liste ile döndürün.
 
 Bu iki sayının kendisi sıfır olmadığı sürece ilk basamağının sıfır içermediğini varsayabilirsiniz.
