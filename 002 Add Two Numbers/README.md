@@ -8,17 +8,7 @@ Bu iki sayının kendisi sıfır olmadığı sürece ilk basamağının sıfır 
 
 **Örnek 1:**
 
-```mermaid
-graph LR
-A((2)) --> B((4)) --> C((3))
-D((5)) --> E((6)) --> F((4))
-```
-<hr>
-
-```mermaid
-graph LR
-K((2)) --> J((4)) --> L((3))
-```
+![Capture](https://user-images.githubusercontent.com/54971670/143759545-1e65b480-e1f0-4075-b28c-c24a08b8acd5.PNG)
 
 **Girdi:** `l1 = [2, 4, 3], l2 = [5, 6, 4]`
 **Çıktı:** `[7, 0, 8]`
