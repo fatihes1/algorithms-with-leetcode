@@ -6,31 +6,32 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 **Example 1:**
 
-```mermaid
-graph LR
-A((2)) --> B((4)) --> C((3))
-D((5)) --> E((6)) --> F((4))
-```
-<hr>
-
-```mermaid
-graph LR
-K((2)) --> J((4)) --> L((3))
-```
+![Capture](https://user-images.githubusercontent.com/54971670/143759545-1e65b480-e1f0-4075-b28c-c24a08b8acd5.PNG)
 
 **Input:** `l1 = [2, 4, 3], l2 = [5, 6, 4]`
+
 **Output:** `[7, 0, 8]`
+
 **Explanation:** `342 + 465 = 807.`
+
+<br/>
 
 **Example 2:**
 
+
 **Input:** `l1 = [0], l2 = [0]`
+
 **Output:** `[0]`
+
+<br/>
 
 **Example 3:**
 
+
 **Input:** `l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]`
+
 **Output:** `[8,9,9,9,0,0,0,1]`
+
 
 **Constraints:**
 -   The number of nodes in each linked list is in the range  `[1, 100]`.
