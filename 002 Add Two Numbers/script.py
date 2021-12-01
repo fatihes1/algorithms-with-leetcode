@@ -1,7 +1,7 @@
 # Function params => l1: Optional[ListNode], l2: Optional[ListNode]
 # Data type that the function returns => Optional[ListNode]
 
-def addTwoNumbers(l1, l2):
+def addTwoNumbers(l1, l2): 
     node = ListNode()
     current = node
 
