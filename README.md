@@ -1,5 +1,5 @@
 ﻿# Algorithm With LeetCode (Questions & Answers)
-[Click here](ReadmeFiles/EN_README.md) for English README.
+[Click here](EN_README.md) for English README.
 
 ![0_GePc7lo4CF4A3guP](https://user-images.githubusercontent.com/54971670/146211644-da59aff7-0cbc-4986-b748-432315ef1d45.png)
 
