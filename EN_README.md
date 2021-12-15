@@ -1,15 +1,12 @@
 ﻿# Algorithm With LeetCode (Questions & Answers)
-[Click here](ReadmeFiles/EN_README.md) for English README.
 
 ![0_GePc7lo4CF4A3guP](https://user-images.githubusercontent.com/54971670/146211644-da59aff7-0cbc-4986-b748-432315ef1d45.png)
 
-Bu repository, Python programlama dili ile [Leetcode](https://leetcode.com/problemset/all/)
-alıştırma problemlerinin çözümlerini içerir. Bu repoya katkıda bulunmak istiyorsanız, öncelikle repoyu forklayınız. Sonrasında Python harici bir programlama dili ile soruyu çözerek Pull Request (PR) atınız. Gelen PR'ları düzenli olarak kontrol edeceğim.
+This repository contains solutions to [Leetcode](https://leetcode.com/problemset/all/) practice problems with Python. If you want to **contribute**, **fork** the repo and **PR** by solving questions with **other** programming languages. I will regularly check incoming PRs.
 
-*Aşağıdaki programlama dilleri ile soruları çözerel katkıda bulunabilirsiniz.* 
+ *You can contribute by solving questions with the following programming languages:*
  
-***Bir programlama dili bütün soruları çözmek için (yapabildiğiniz kadar) iletişime geçerseniz aşağıdaki listeden belirttiğiniz dili silebilirim.***
-
+ ***If you contact a language to solve all questions (as much as you can), I will delete the language you specified in the list below.***
 
  - [ ]  C++
  - [ ] Java
@@ -30,14 +27,14 @@ alıştırma problemlerinin çözümlerini içerir. Bu repoya katkıda bulunmak 
  - [ ] Elixir
 
 
-## Çözülmüş Sorular
+## Solved questions
 - [ ] 1. Two Sum
 - [ ] 2. Add Two Numbers
 - [ ] 3. Longest Substring Without Repeating Characters
 - [ ] 4. Median of Two Sorted Array
 
 
-## Henüz Çözülmemiş Sorular
+## Unsolved Questions
  
 - [ ] 5. Longest Palindromic Substring
 - [ ] 6. Zipzag Conversion
