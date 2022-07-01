@@ -1,5 +1,5 @@
 
-##### (Click here for english README.md)["https://github.com/ErdalNayir/algorithms-with-leetcode/blob/main/005%20Remove%20Nth%20Node%20From%20End%20of%20List/README.en.md"]
+##### [Click here for english README.md]("https://github.com/ErdalNayir/algorithms-with-leetcode/blob/main/005%20Remove%20Nth%20Node%20From%20End%20of%20List/README.en.md")
 Verilen bağlı listeden, sondan n'inci elemanı silin ve yeni bağlı listenin baş kısmını döndürün.
 
 
