@@ -2,8 +2,8 @@
 ##### [Click here](https://github.com/ErdalNayir/algorithms-with-leetcode/blob/main/005%20Remove%20Nth%20Node%20From%20End%20of%20List/README.en.md) for english explanation
 Verilen bağlı listeden, sondan n'inci elemanı silin ve yeni bağlı listenin baş kısmını döndürün.
 
-
-<img src="https://github.com/ErdalNayir/algorithms-with-leetcode/blob/main/005%20Remove%20Nth%20Node%20From%20End%20of%20List/remove_ex1.jpg" alt="exampleImg" width="500" height="300" vspace="100">
+#### Resim:
+<img src="https://github.com/ErdalNayir/algorithms-with-leetcode/blob/main/005%20Remove%20Nth%20Node%20From%20End%20of%20List/remove_ex1.jpg" alt="exampleImg" width="500" height="300" hspace="50">
 
  
 
