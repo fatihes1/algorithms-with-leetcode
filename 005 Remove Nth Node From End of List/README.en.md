@@ -1,5 +1,7 @@
 Given the head of a linked list, remove the nth node from the end of the list and return its head.
 
+<img src="https://github.com/ErdalNayir/algorithms-with-leetcode/blob/main/005%20Remove%20Nth%20Node%20From%20End%20of%20List/remove_ex1.jpg" alt="exampleImg" width="300" height="300">
+
  
 
 #### Example 1:
