@@ -35,16 +35,10 @@ alıştırma problemlerinin çözümlerini içerir. Bu repoya katkıda bulunmak 
 - [x] 2. Add Two Numbers
 - [x] 3. Longest Substring Without Repeating Characters
 - [x] 4. Median of Two Sorted Array
+- [x] 6. Zigzag Conversion
 - [x] 19. Remove Nth Node From End of List 
+- [x] 24. Swap Nodes in Pairs
+- [x] 58. Length of Last Word
 
 
-## Henüz Çözülmemiş Sorular
- 
-- [ ] 5. Longest Palindromic Substring
-- [ ] 6. Zipzag Conversion
-- [ ] 7. Reverse Integer
-- [ ] 8. String to String (atoi)
-- [ ] 9. Palindrome Number
-- [ ] 10. Regular Expression Matching
-- [ ]  More ...
 
