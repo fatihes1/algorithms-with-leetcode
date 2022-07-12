@@ -9,7 +9,7 @@ Bir kelime içinde boşluk içermeyen bir alt stringdir.
 
 #### Example 1:
 
-Girdi: s = "Hello World"
+Girdi: s = "Hello World" <br>
 Çıktı: 5
 Açıklama: Son kelime "World" uzunluğu 5'tir.
 #### Example 2:
