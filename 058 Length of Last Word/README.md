@@ -10,22 +10,22 @@ Bir kelime içinde boşluk içermeyen bir alt stringdir.
 #### Example 1:
 
 Girdi: s = "Hello World" <br>
-Çıktı: 5
-Açıklama: Son kelime "World" uzunluğu 5'tir.
+Çıktı: 5 <br>
+Açıklama: Son kelime "World" uzunluğu 5'tir. <br>
 #### Example 2:
 
-Girdi: s = "   fly me   to   the moon  "
-Çıktı: 4
-Açıklama: Son kelime "moon" uzunluğu 5'tir.
+Girdi: s = "   fly me   to   the moon  " <br>
+Çıktı: 4 <br>
+Açıklama: Son kelime "moon" uzunluğu 5'tir. <br>
 #### Example 3:
 
-Girdi: s = "luffy is still joyboy"
-Çıktı: 6
-Açıklama: Son kelime "joyboy" uzunluğu 5'tir.
+Girdi: s = "luffy is still joyboy" <br>
+Çıktı: 6 <br>
+Açıklama: Son kelime "joyboy" uzunluğu 5'tir. <br>
  
 
 #### Kısıtlamalar:
 
-1 <= s.length <= 104
-s string'i sadece ingilizce harflerden ve boşluklardan oluşmaktadır.
-s'in içinde en az 1 tane kelime olacaktır
+1 <= s.length <= 104 <br>
+s string'i sadece ingilizce harflerden ve boşluklardan oluşmaktadır. <br>
+s'in içinde en az 1 tane kelime olacaktır <br>
