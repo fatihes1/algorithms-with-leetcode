@@ -2,7 +2,7 @@
 Verilen bağlı listeden, sondan n'inci elemanı silin ve yeni bağlı listenin baş kısmını döndürün.
 
 #### Resim:
-<img src="https://github.com/ErdalNayir/algorithms-with-leetcode/blob/main/005%20Remove%20Nth%20Node%20From%20End%20of%20List/remove_ex1.jpg" alt="exampleImg" width="500" height="300" hspace="50">
+<img src="https://github.com/ErdalNayir/algorithms-with-leetcode/blob/main/024%20Swap%20Nodes%20in%20Pairs/swap_ex1.jpg" alt="exampleImg" width="500" height="300" hspace="50">
 
  
 
