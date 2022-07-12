@@ -1,4 +1,4 @@
-##### [Click here](https://github.com/ErdalNayir/algorithms-with-leetcode/blob/main/005%20Remove%20Nth%20Node%20From%20End%20of%20List/README.en.md) for english explanation
+##### [Click here](https://github.com/ErdalNayir/algorithms-with-leetcode/blob/main/024%20Swap%20Nodes%20in%20Pairs/README.en.md) for english explanation
 Verilen bağlı listeden, sondan n'inci elemanı silin ve yeni bağlı listenin baş kısmını döndürün.
 
 #### Resim:
@@ -8,23 +8,21 @@ Verilen bağlı listeden, sondan n'inci elemanı silin ve yeni bağlı listenin 
 
 #### Örnek 1:
 
-Girdi: baş = [1,2,3,4,5], n = 2
-Çıktı: [1,2,3,5]
+Girdi: baş = [1,2,3,4]<br>
+Çıktı: [2,1,4,3]<br>
 
 #### Örnek 2:
 
-Girdi: baş = [1], n = 1
-Çıktı: []
+Girdi: baş = []<br>
+Çıktı: []<br>
 
 #### Örnek  3:
 
-Girdi: baş = [1,2], n = 1
-Çıktı: [1]
+Girdi: baş = [1]<br>
+Çıktı: [1]<br>
  
 
 ### Kısıtlamalar:
 
-Liste içindeki düğüm sayısı sz'dir
-1 <= sz <= 30
-0 <= Düğüm.val <= 100
-1 <= n <= sz
+Liste içindeki düğüm sayısı [0, 100] aralığındadır.<br>
+0 <= Node.val <= 100<br>
