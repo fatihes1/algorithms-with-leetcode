@@ -1,5 +1,6 @@
 ##### [Click here](https://github.com/ErdalNayir/algorithms-with-leetcode/blob/main/024%20Swap%20Nodes%20in%20Pairs/README.en.md) for english explanation
-Verilen bağlı listeden, sondan n'inci elemanı silin ve yeni bağlı listenin baş kısmını döndürün.
+Verilen bağlı listede, her komşu iki düğümün yerini değiştirin ve listenin başını döndürün
+
 
 #### Resim:
 <img src="https://github.com/ErdalNayir/algorithms-with-leetcode/blob/main/024%20Swap%20Nodes%20in%20Pairs/swap_ex1.jpg" alt="exampleImg" width="500" height="300" hspace="50">
